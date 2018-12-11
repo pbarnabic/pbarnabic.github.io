@@ -2631,3 +2631,8 @@ input, select, textarea {
 			}
 
 	}
+
+	.github-logo-on-projects{
+		border-bottom: none;
+
+	}
